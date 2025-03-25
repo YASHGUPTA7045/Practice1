@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\INumerable\INumerable\bin\Debug\net8.0\INumerable.exe
+C:\Users\DELL\source\repos\INumerable\INumerable\bin\Debug\net8.0\INumerable.deps.json
+C:\Users\DELL\source\repos\INumerable\INumerable\bin\Debug\net8.0\INumerable.runtimeconfig.json
+C:\Users\DELL\source\repos\INumerable\INumerable\bin\Debug\net8.0\INumerable.dll
+C:\Users\DELL\source\repos\INumerable\INumerable\bin\Debug\net8.0\INumerable.pdb
+C:\Users\DELL\source\repos\INumerable\INumerable\obj\Debug\net8.0\INumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\INumerable\INumerable\obj\Debug\net8.0\INumerable.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\INumerable\INumerable\obj\Debug\net8.0\INumerable.AssemblyInfo.cs
+C:\Users\DELL\source\repos\INumerable\INumerable\obj\Debug\net8.0\INumerable.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\INumerable\INumerable\obj\Debug\net8.0\INumerable.dll
+C:\Users\DELL\source\repos\INumerable\INumerable\obj\Debug\net8.0\refint\INumerable.dll
+C:\Users\DELL\source\repos\INumerable\INumerable\obj\Debug\net8.0\INumerable.pdb
+C:\Users\DELL\source\repos\INumerable\INumerable\obj\Debug\net8.0\INumerable.genruntimeconfig.cache
+C:\Users\DELL\source\repos\INumerable\INumerable\obj\Debug\net8.0\ref\INumerable.dll

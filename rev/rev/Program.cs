@@ -68,10 +68,26 @@
         Console.WriteLine(s.Salary);
         Console.WriteLine(s.Age);
         Console.WriteLine(s.Name);
+        //Multithread.Print();
+        //****firstNonRepeat***
+        string input = "shhshsswiwi";
+        char result = FirstNonRepeat.FindFirst(input);
+
+        if (result != '\0')
+        {
+            Console.WriteLine("First non-repeating character: " + result);
+        }
+        else
+        {
+            Console.WriteLine("No non-repeating character found.");
+        }
+
+
     }
 
 
 }
+
 
 //class Program
 //{
@@ -198,7 +214,10 @@
 
 
 
-
+//public static void Main()
+//{
+//    Anagram.Interger();  
+//}
 
 
 

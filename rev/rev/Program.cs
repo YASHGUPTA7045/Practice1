@@ -27,12 +27,10 @@
     {
         get
         {
-            if (Name == " Admin")
-            {
-                Console.WriteLine(" Accessing admin profile");
+          
+    
                 return Name;
-            }
-            return Name;
+            
 
         }
         set

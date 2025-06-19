@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Multithreding\Multithreding\bin\Debug\net8.0\Multithreding.exe
+C:\Users\DELL\source\repos\Multithreding\Multithreding\bin\Debug\net8.0\Multithreding.deps.json
+C:\Users\DELL\source\repos\Multithreding\Multithreding\bin\Debug\net8.0\Multithreding.runtimeconfig.json
+C:\Users\DELL\source\repos\Multithreding\Multithreding\bin\Debug\net8.0\Multithreding.dll
+C:\Users\DELL\source\repos\Multithreding\Multithreding\bin\Debug\net8.0\Multithreding.pdb
+C:\Users\DELL\source\repos\Multithreding\Multithreding\obj\Debug\net8.0\Multithreding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Multithreding\Multithreding\obj\Debug\net8.0\Multithreding.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Multithreding\Multithreding\obj\Debug\net8.0\Multithreding.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Multithreding\Multithreding\obj\Debug\net8.0\Multithreding.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Multithreding\Multithreding\obj\Debug\net8.0\Multithreding.dll
+C:\Users\DELL\source\repos\Multithreding\Multithreding\obj\Debug\net8.0\refint\Multithreding.dll
+C:\Users\DELL\source\repos\Multithreding\Multithreding\obj\Debug\net8.0\Multithreding.pdb
+C:\Users\DELL\source\repos\Multithreding\Multithreding\obj\Debug\net8.0\Multithreding.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Multithreding\Multithreding\obj\Debug\net8.0\ref\Multithreding.dll

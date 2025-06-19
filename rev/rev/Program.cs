@@ -68,7 +68,7 @@
         Console.WriteLine(s.Salary);
         Console.WriteLine(s.Age);
         Console.WriteLine(s.Name);
-        //Multithread.Print();
+        Multithread.Print();
         //****firstNonRepeat***
         string input = "shhshsswiwi";
         char result = FirstNonRepeat.FindFirst(input);

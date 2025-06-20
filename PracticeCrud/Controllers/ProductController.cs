@@ -23,17 +23,17 @@ namespace PracticeCrud.Controllers
         }
         [HttpPost]
 
-        public async Task<IActionResult> CreateProduct(Product Products)
+        public async Task<IActionResult> CreateProduct(Product products)
         {
-            var obj = new Product
-            {
-                Id = Products.Id,
-                Name = Products.Name,
-                Price = Products.Price
-            };
-            context.Products.Add(obj);
+            //var obj = new Product
+            //{
+            //    Id = Products.Id,
+            //    Name = Products.Name,
+            //    Price = Products.Price
+            //};
+            context.Products.Add(products);
             await context.SaveChangesAsync();
-            return Ok(obj);
+            return Ok(products);
         }
         [HttpPut]
         public async Task<IActionResult> UpdateProduct(int id, Product products)
